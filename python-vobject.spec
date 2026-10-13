@@ -1,6 +1,6 @@
 Name:		python-vobject
 Version:	0.9.9
-Release:	1
+Release:	2
 Summary:	A full-featured Python package for parsing and creating iCalendar and
 License:	Apache-2.0
 Group:		Development/Python
